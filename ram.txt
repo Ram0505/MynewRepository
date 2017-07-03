@@ -1,1 +1,2 @@
-I am ram .This is first commit
+I am ram .This is first commit.
+editing the first file with notepad
